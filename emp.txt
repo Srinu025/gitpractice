@@ -1,2 +1,2 @@
 Employee Name: Srinu
-Salary: 60000
+Salary: 70000
