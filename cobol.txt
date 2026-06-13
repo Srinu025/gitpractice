@@ -1,4 +1,4 @@
 Identification division.
 program name. addpgm.
 author. srini
-date-of-written. 13.06.2026.
+date-of-written. 13/06/2026.
